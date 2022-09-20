@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ludovic Henry</h1>
-<h3 align="center">Passionné par l’informatique depuis tout petit et ayant fait un BTS dans le domaine du numérique, le métier de développeur web donner vie à ma passion</h3>
+<h3 align="center">Passionné par l’informatique depuis tout petit et ayant fait un BTS dans le domaine du numérique, le métier de développeur web est pour moi une manière de donner vie à ma passion</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
